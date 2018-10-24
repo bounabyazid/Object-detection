@@ -1,0 +1,48 @@
+sudo apt-get install python3
+alias python=3
+
+sudo apt-get install spyder3
+
+pip3 install cython
+
+pip3 install numpy
+pip3 install matplotlib
+pip3 install sklearn
+pip3 install scipy
+pip3 install pandas
+
+pip3 install tensorflow
+pip3 install tensorflow-gpu
+pip3 install keras
+
+pip3 install spacy
+pip3 install nltk
+pip3 install Fuzzywuzzy
+pip3 install py_stringmatching
+pip3 install wordninja
+
+pip3 install editdistance
+pip3 install python-Levenshtein
+
+pip3 install yolo34py-gpu
+
+pip3 install lxml
+pip3 install pillow
+pip3 install dlib
+
+pip3 install PyWavefront
+pip3 install memory_profiler
+
+pip3 install utils
+pip3 install Sphinx
+
+wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.9/opencv-2.4.9.zip
+pip3 install opencv-python
+
+pip3 install tweet-preprocessor
+pip3 install emoji
+pip3 install ipykernel
+pip3 install dill
+
+
+
