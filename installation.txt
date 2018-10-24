@@ -1,5 +1,5 @@
 sudo apt-get install python3
-alias python=python3
+sudo ln -sfn /usr/bin/python3.6 /usr/bin/python
 
 sudo apt-get install spyder3
 
