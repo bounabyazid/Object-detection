@@ -1,6 +1,11 @@
 sudo apt-get install python3
 sudo ln -sfn /usr/bin/python3.6 /usr/bin/python
 
+or
+
+create a file by typing this cmd : gedit ~/.bash_aliases
+then type this cmd : source ~/.bash_aliases
+
 sudo apt-get install spyder3
 
 pip3 install cython
@@ -21,7 +26,7 @@ pip3 install Fuzzywuzzy
 pip3 install py_stringmatching
 pip3 install wordninja
 
-pip3 install editdistance
+pip3 install editdistancesource ~/.bash_aliases
 pip3 install python-Levenshtein
 
 pip3 install yolo34py-gpu
