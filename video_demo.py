@@ -13,13 +13,13 @@ import cv2
 #https://www.shutterstock.com/video
 #_______________________________________________________________
 
-#net = Detector(bytes("cfg/yolov3-tiny.cfg", encoding="utf-8"),
-#               bytes("weights/yolov3-tiny.weights", encoding="utf-8"), 0,
- #              bytes("cfg/coco.data", encoding="utf-8"))
-
-net = Detector(bytes("cfg/yolov3.cfg", encoding="utf-8"),
-               bytes("weights/yolov3.weights", encoding="utf-8"), 0,
+net = Detector(bytes("cfg/yolov3-tiny.cfg", encoding="utf-8"),
+               bytes("weights/yolov3-tiny.weights", encoding="utf-8"), 0,
                bytes("cfg/coco.data", encoding="utf-8"))
+
+#net = Detector(bytes("cfg/yolov3.cfg", encoding="utf-8"),
+#               bytes("weights/yolov3.weights", encoding="utf-8"), 0,
+#               bytes("cfg/coco.data", encoding="utf-8"))
 
 #_______________________________________________________________
 
@@ -86,7 +86,7 @@ def LabelVideoFile():
     
     cv2.destroyAllWindows()
 
-LabelVideoFile()
+#LabelVideoFile()
 #_______________________________________________________________
 
 def LabelVideoCam():
@@ -135,4 +135,4 @@ def LabelVideoCam():
 
     cv2.destroyAllWindows()
 
-#LabelVideoCam()
+LabelVideoCam()
