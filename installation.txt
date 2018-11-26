@@ -54,5 +54,7 @@ pip3 install emoji
 pip3 install ipykernel
 pip3 install dill
 
+pip3 install stanfordcorenlp
+
 https://github.com/arunponnusamy/object-detection-opencv
 
