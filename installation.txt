@@ -27,6 +27,7 @@ pip3 install Fuzzywuzzy
 pip3 install py_stringmatching
 pip3 install wordninja
 pip3 install geocoder
+pip3 install nlpnet
 
 pip3 install editdistancesource ~/.bash_aliases
 pip3 install python-Levenshtein
