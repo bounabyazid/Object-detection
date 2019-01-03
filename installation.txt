@@ -61,3 +61,4 @@ pip3 install stanfordcorenlp
 
 https://github.com/arunponnusamy/object-detection-opencv
 
+pip3 install elsapy
