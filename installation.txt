@@ -58,6 +58,7 @@ pip3 install ipykernel
 pip3 install dill
 
 pip3 install stanfordcorenlp
+pip3 install --upgrade google-api-python-client
 
 https://github.com/arunponnusamy/object-detection-opencv
 
