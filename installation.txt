@@ -67,3 +67,6 @@ pip3 install scopus
 
 pip3 install pyacoustid for audio signal processing finger print audio
 
+sudo apt-get install graphviz
+pip3 install pydot
+
