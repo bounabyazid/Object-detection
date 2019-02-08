@@ -70,3 +70,5 @@ pip3 install pyacoustid for audio signal processing finger print audio
 sudo apt-get install graphviz
 pip3 install pydot
 
+pip3 install googletrans
+pip3 install py-thesaurus
