@@ -31,6 +31,8 @@ pip3 install nlpnet
 pip3 install pntl
 pip3 install stanfordcorenlp
 
+pip3 install pyLDAvis
+
 pip3 install editdistancesource ~/.bash_aliases
 pip3 install python-Levenshtein
 
